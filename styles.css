@@ -25,11 +25,11 @@ a{
     display: block;
     max-width: 140px;
     }
-.secondary-link {
-    color: var(--primary-color)
-    border-radius: 0.5rem;
-    boder: 1px solid var
-    var(--primary-color)
+    .secondary-link {
+        color: var(--primary-color);
+        border-radius: 0.5rem;
+        boder: 1px solid var
+        var(--primary-color;
 }
 
 
