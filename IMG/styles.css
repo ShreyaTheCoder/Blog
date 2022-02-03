@@ -26,10 +26,10 @@ a{
     max-width: 140px;
     }
 .secondary-link {
-    color: var(--primary-color);
+    color: var(--primary-color)
     border-radius: 0.5rem;
     boder: 1px solid var
-    var(--primary-color;
+    var(--primary-color)
 }
 
 
@@ -53,5 +53,3 @@ a{
     max-width: 350x;
     display: block;
 margin: auto;
-
-/** LINKS **/
